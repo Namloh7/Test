@@ -13,7 +13,7 @@ namespace ConsoleApp1
         {
 
             Console.WriteLine("Hello");
-            int číslo = 12;
+            int číslo = 14;
             Console.WriteLine(číslo);
         }
 
