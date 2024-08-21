@@ -13,6 +13,8 @@ namespace ConsoleApp1
         {
 
             Console.WriteLine("Hello");
+            int číslo = 12;
+            Console.WriteLine(číslo);
         }
 
     }
