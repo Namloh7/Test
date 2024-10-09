@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\GitHub\Test\Email\Email\bin\Debug\Email.exe.config
+C:\Users\admin\Documents\GitHub\Test\Email\Email\bin\Debug\Email.exe
+C:\Users\admin\Documents\GitHub\Test\Email\Email\bin\Debug\Email.pdb
+C:\Users\admin\Documents\GitHub\Test\Email\Email\obj\Debug\Email.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\GitHub\Test\Email\Email\obj\Debug\Email.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\Test\Email\Email\obj\Debug\Email.exe
+C:\Users\admin\Documents\GitHub\Test\Email\Email\obj\Debug\Email.pdb

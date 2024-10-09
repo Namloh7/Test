@@ -1,0 +1,2 @@
+C:\Users\admin\Documents\GitHub\Test\Chatgpt\Chatgpt\obj\Debug\Chatgpt.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\GitHub\Test\Chatgpt\Chatgpt\obj\Debug\Chatgpt.csproj.CoreCompileInputs.cache
